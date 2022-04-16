@@ -4,23 +4,17 @@ sidebar_label: How to
 hide_title: true
 ---
 
-## How to
+В данный момент Сребреник можно получить несколькими способами
 
-### How to obtain Srebrenik through cryptocurency donations
+Пожертвовав любую произвольную сумму в Polkadot или Kusama одной из организаций, включенных в список Вы получите на свой счёт эквивалентную сумму в SRBN. 
 
-Srebrenik is distributed at no cost to anyone who donates cryptocurency to a list of known organisations.
+Если вы хотите получить Сребреник таким образом, просто отправьте токены Polkadot выбранной вами благотворительной организации из кошелька Polkadot, ключи от которого у вас есть (не отправляйте токены Polkadot с адреса биржи, для которого у вас нет мнемонических ключей). Когда бот-сборщик Сребреника обнаружит ваше пожертвование, он отправит токены Сребреника на учетную запись Сребреника с тем же мнемоническим кодом, что и у учетной записи отправителя пожертвования. Токены будут выпущены по определенной ставке, пропорциональной количеству пожертвованных токенов.
 
-The Srebrenik faucet bot monitors a list of specific Polkadot addresses known to be owned and under the control of specific organisations which accept donations at those addresses.
+Бот сборщика Srebrenik отслеживает список конкретных адресов Polkadot, которые, принадлежат организациям, которые принимают пожертвования по этим адресам. 
 
-The current list follows:
-- `1x8aa2N2Ar9SQweJv9vsuZn3WYDHu7gMQu1RePjZuBe33Hv` see: https://twitter.com/ukraine/status/1498547710697345027
+Текущий список следующий: • 1x8aa2N2Ar9SQweJv9vsuZn3WYDHu7gMQu1RePjZuBe33Hv см.: https://twitter.com/ukraine/status/1498547710697345027 
 
-To propose addition of another monitored address, submit a pull request to this page (click on "Edit this page" below). If the address ownership can be validated as belonging to an organisation aligned with the goals of the Srebrenik project, the pr will be merged and the faucet bot updated to monitor the address.
+Чтобы предложить добавить еще один отслеживаемый адрес, отправьте запрос на этой странице для этого, нажмите «Изменить страницу» ниже и добавьте данные организации. 
 
-When a donation is made to one of the listed addresses, the Srebrenik faucet will automatically send Srebrenik tokens to the substrate address of the sender of the donation.
-
-If you wish to obtain Srebrenik in this way, simply send Polkadot tokens to your chosen charitable organisation from a Polkadot wallet that you hold keys for (do not send Polkadot tokens from an exchange address you do not hold mnemonic keys for). When the Srebrenik faucet bot detects your donation, it will release Srebrenik tokens to a Srebrenik account with the same mnemonic as the donation sender account. Tokens will be released at a specific rate proportionate to the quantity of tokens donated.
-
-### How to obtain Srebrenik through other types of contributions
-
-Mechanisms to reward other forms of contribution are also being explored. Specifically, when a Srebrenik voting council has been formed, it will be possible for the council to vote on Srebrenik remuneration for code, translation or other technical and time contributions to the Srebrenik project.
+Военнослужащие Российской армии, отказавшиеся от участия в войне с Украиной и разорвавшие контракт получат разовую выплату в рвзмере 2000 SRBN
+Инвестиции в Сребреник.  Инвестируя в SRBN Вы оказываете очень существенную поддержку проекту. Мы не обещаем Вам баснословных заработков на спекулятивных операциях. Наша основная забота состоит в том, чтобы превратить Сребреник в полноценное децентрализованное средство платежа и создать на его основе прозрачную и понятную, для любого гражданина, бюджетную систему Республики Русь.
